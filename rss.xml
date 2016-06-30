@@ -4,7 +4,7 @@
         <description><![CDATA[Dr. Benjamin Hicks]]></description>
         <link>http://drbenjaminhicks.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 30 Jun 2016 16:40:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2016 16:41:06 GMT</lastBuildDate>
         <atom:link href="http://drbenjaminhicks.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -18,6 +18,13 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5cd47676-92df-4163-a759-d871f1a425bd.jpg">]]></description>
             <link>http://drbenjaminhicks.com/7bca089a-1749-4daf-9050-8abca28d6a31/index.html</link>
             <guid isPermaLink="false">7bca089a-1749-4daf-9050-8abca28d6a31</guid>
+            <pubDate>Thu, 30 Jun 2016 16:40:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/edacb970-0132-4d0e-981f-880bb4ed0488.jpg">]]></description>
+            <link>http://drbenjaminhicks.com/5f446c54-6910-444a-9d8e-ba886327dd04/index.html</link>
+            <guid isPermaLink="false">5f446c54-6910-444a-9d8e-ba886327dd04</guid>
             <pubDate>Thu, 30 Jun 2016 16:40:31 GMT</pubDate>
         </item>
     </channel>
