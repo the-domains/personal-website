@@ -1,16 +1,16 @@
 layout_spectrum: 0.9837116459384561
 typography_spectrum: 0.20245144749060273
 color:
-  brandStrength: 0.23416165984235704
-  lightness: 0.985334292287007
-  saturation: 0.40285845613107085
-  rhythmicContrast: 0.6077224996406585
+  brandStrength: 0.07568883639760315
+  lightness: 0.6050876961089671
+  saturation: 0.7444866988807917
+  rhythmicContrast: 0.07449259399436414
   brandColors:
-    - '#004358'
-    - '#1F8A70'
-    - '#BEDB39'
-    - '#FFE11A'
-    - '#FD7400'
+    - '#E8E595'
+    - '#D0A825'
+    - '#40627C'
+    - '#26393D'
+    - '#FFFAE4'
 name: Dr. Benjamin Hicks
 author:
   name: Benjamin Hicks
